@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jpnp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/jpnp/static/js/main.430e2963.chunk.js",
+    "main.js.map": "/jpnp/static/js/main.430e2963.chunk.js.map",
+    "runtime~main.js": "/jpnp/static/js/runtime~main.6db6abd6.js",
+    "runtime~main.js.map": "/jpnp/static/js/runtime~main.6db6abd6.js.map",
+    "static/js/2.8de64fce.chunk.js": "/jpnp/static/js/2.8de64fce.chunk.js",
+    "static/js/2.8de64fce.chunk.js.map": "/jpnp/static/js/2.8de64fce.chunk.js.map",
+    "static/js/3.fc5cbf83.chunk.js": "/jpnp/static/js/3.fc5cbf83.chunk.js",
+    "static/js/3.fc5cbf83.chunk.js.map": "/jpnp/static/js/3.fc5cbf83.chunk.js.map",
+    "index.html": "/jpnp/index.html",
+    "precache-manifest.02fc9e4efa9e99e95a7d1895777bd561.js": "/jpnp/precache-manifest.02fc9e4efa9e99e95a7d1895777bd561.js",
+    "service-worker.js": "/jpnp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/jpnp/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
